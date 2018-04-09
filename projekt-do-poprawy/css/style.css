@@ -67,26 +67,35 @@ header#header > h1 {
 
 
 
-section#section > h2 {
-    text-align: center;
-}
-section#section > p {
+
+section#about > h2 {
     text-align: center;
 }
 
-footer#footer {
+section#about > p {
+    text-align: center;
+}
+
+footer#contact {
     background-color: #222;
     text-align: center;
     padding: 20px;
-    
+
 }
-footer#footer > h1 {
+
+footer#contact > h1 {
     color: white;
 }
-footer#footer > address {
+
+footer#contact > address {
     color: white;
-    
+
 }
-footer#footer > a {
+
+footer#contact > a {
+    color: white;
+}
+
+footer#contact > h3 {
     color: white;
 }
